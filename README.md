@@ -36,4 +36,5 @@ The dataset used for the project is [Room Occupancy Estimation](https://archive.
 ![Convergence Graph](https://github.com/pranjal-arora/parameter-optimization-of-SVM/blob/master/results/output.png?raw=true)
 
 ### Conclusion
-***Sample 8*** shows the ***best accuracy of 0.97***, and hence the most optimized parameters being ***kernel= linear, Nu= 4.53, epsilon= 7.02***. The objective function decreases and increases rapidly in the earlier iterations. In the later iterations, the function seems to be converging, and will ultimately lead to a stable solution after further more iterations.
+From the table, it can be concluded that ***Sample 8*** shows the ***best accuracy of 0.97***, and hence the most optimized parameters being ***kernel= linear, Nu= 4.53, epsilon= 7.02***. 
+From the convergence graph, it can be concluded that the objective function decreases and increases rapidly in the earlier iterations. In the later iterations, the function seems to be converging, and will ultimately lead to a stable solution after further more iterations.
